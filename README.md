@@ -12,7 +12,7 @@ No install necessary, just run script
 
 ### Screenshots
 
-![PowerShell ISE](/Screenshots/PowerShell-ISE.png?raw=true "PowerShell ISE")
+![PowerShell ISE](/Screenshots/PowerShell.png?raw=true "PowerShell ISE")
 
 ## Credits
 
