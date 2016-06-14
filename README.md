@@ -6,9 +6,16 @@ A pseudo-random password generator written in PowerShell. Especially useful in e
 
 - > PowerShell v3
 
-### Installing
+### How to Use
 
-No install necessary, just run script
+You can take the code and create a dedicated script with it or you can import it to an existing script and use it as a function which is what I have done - you can see a screenshot of this below.
+
+Simply import the module and run the Generate-Password cmdlet. If you don't define any parameters then a sensible default will run (see the .PARAMETER's in the script).
+
+Available Parameters:
+- numberOfPasswords - number of passwords to generate
+- wordLength - the length of the word to generate
+- allowedSpecialCharacters - what special characters to permit
 
 ### Screenshots
 
